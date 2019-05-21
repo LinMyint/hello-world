@@ -1,2 +1,2 @@
 # hello-world
-Testing
+Hi. I am Lin Myint. I am testing Github.
